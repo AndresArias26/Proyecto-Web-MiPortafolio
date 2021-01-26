@@ -5,6 +5,7 @@
 *, ::before, ::after{
     margin: 0;
     box-sizing: border-box;
+    padding: 0;
 }
 /**
  * 1. Correct the line height in all browsers.
